@@ -1,0 +1,49 @@
+body {
+    background-color: pink;
+}
+main {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.title {
+    color: white;
+    text-align: center;
+    -webkit-transition: color 2s;
+    transition: color 2s;
+}
+.title:hover {
+    color: black;
+}
+.quote {
+    color: white;
+    text-align: center;
+    max-width: 500px;
+    margin-left: 50px;
+}
+.owner {
+    color: white;
+    text-align: center;
+    margin-right: 25px;
+}
+.list {
+    font-weight:bold;
+    margin-left: 35px;
+}
+.picture img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.quote2 {
+    color: white;
+    text-align: center;
+    max-width: 300px;
+    margin-left: 150px;
+}
+.sign {
+    text-align: center;
+}
+.church {
+    text-align: center;
+}
